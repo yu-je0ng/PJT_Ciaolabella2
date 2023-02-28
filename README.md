@@ -9,9 +9,9 @@
 ## 1. 프로젝트 개요
 
 - 1차 프로젝트 기간 : 2022.08.18 ~ 2022.09.30
-  - Ciaolabella ver.1 포트폴리오
+  - [Ciaolabella ver.1 포트폴리오](https://github.com/yu-je0ng/PJT_Ciaolabella1.git)
 - 2차 프로젝트 기간 :  2022.10.12 ~ 2022.12.21
-  - Ciaolabella ver.2 서비스 
+  - [Ciaolabella ver.2 서비스](https://ciaolabella.site/)
   - [Ciao label la ver.2 기술 공유 노션](https://www.notion.so/Ciaolabella-4b32bd0e550a4414922b89975965cc7d)
   - Team Ozi : [고유정](https://github.com/yu-je0ng), [김세진](https://github.com/nijes), [류재선](https://github.com/prudent-PS), [이경덕](https://github.com/Kyung-Deok), [주한나](https://github.com/hanna-joo)
 
